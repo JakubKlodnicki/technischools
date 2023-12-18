@@ -19,5 +19,5 @@ Wypełniamy według wzoru:
 11. igonie https://github.com/EssaElToro/Pam3a
 12. miłpie https://github.com/miloZs/pamproject
 13. jakgra https://github.com/Uisb777/first_mobile_app
-14.
+14. JakKłod https://github.com/JakubKlodnicki/pluum
 15.
